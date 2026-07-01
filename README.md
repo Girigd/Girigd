@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋 I'm Giridharan
 
-<!--
-**Girigd/Girigd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst
 
-Here are some ideas to get you started:
+I'm a Data Analyst with 1.4+ years of experience working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Python
+- Power BI
+- Pandas
+- MySQL
+- FastAPI
+- Advanced Excel
+
+Currently learning:
+
+- PySpark
+- AWS Cloud
+
+---
+
+## Tech Stack
+
+- Python
+- SQL
+- MySQL
+- Power BI
+- Pandas
+- FastAPI
+- Git
+- GitHub
+- Excel
+
+---
+
+## Projects
+
+📊 AI-Powered Business Intelligence System
+
+📈 Blinkit Sales Dashboard
+
+🛒 Customer Shopping Behavior Analysis
+
+---
+
+## Connect with me
+
+- LinkedIn
+- Email: girirajan1974@gmail.com
