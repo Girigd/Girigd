@@ -12,7 +12,7 @@ I'm currently strengthening my skills in **PySpark**, **AWS Cloud**, and **Data 
 
 ## Tech Stack:
 **Programming & Analysis**: Python | SQL | Pandas | Data Cleaning | Exploratory Data Analysis (EDA) | PySpark | AWS Cloud (Learning)            
-**Tools**: MS Excel | MySQL | SQL Databases | VS Code | Github | Git 
+**Tools**: MS Excel | MySQL | SQL Databases | VS Code | Github | Git                                                    
 **Business Skills**: Data Reporting | Dashboard Development | Data Validation | Trend Analysis | Stakeholder Communication
 
 ---
